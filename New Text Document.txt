@@ -1,0 +1,21 @@
+Project-21
+Bank Management System:-
+A Bank Management system is a system where all the details of the customers are
+stored like customer_id, customer_name, account_type, customer_location,
+contact_no, acc_opening_date, debit_card_issued(yes/no), debit_card_issued_on,
+nominee_registered(yes/no), minimum_amount_in_account, multiple_acc(yes/no). Here
+a small part of implementation has to be done which are as:-
+Create a class called bank_mgmt with above attributes and store the database for 10
+customers.
+Specific task Group Member-1
+1. Display all the customers who have ’Saving accounts’ as account type.
+2. Display all the customers who have registered their nominees.
+3. Display all the customers who were issued debit card today.
+Specific task Group Member-2
+4. Display all the customers whose names start with ‘M’.
+5. Display all the details of the customers whose location is ‘Ahmedabad’
+6. Display all the customers whose account opening date falls in this month.
+Specific task Group Member-3
+7. Display all the customers whose minimum account in the bank is less than 1000/-.
+8. Display all the customers who have multiple accounts and whose names start
+with ‘A’
